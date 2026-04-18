@@ -93,5 +93,13 @@ By default, EasyEffects will not alter your audio until you explicitly tell it w
 ## Contributing
 Because this is an experimental release, the community's help is vital. If you discover improved EQ curves, better threshold limits, or have successfully ported this logic to Windows/macOS, please open an Issue or submit a Pull Request.
 
+## Credits
+This project builds on the work of several open-source communities and tools:
+
+- **DeepFilterNet** for AI-based real-time speech and noise separation research.
+- **EasyEffects** for providing a flexible Linux audio effects pipeline.
+- **PipeWire** for low-latency Linux audio routing and stream control.
+- Community testers and contributors who helped validate speech-first tuning.
+
 ## License
 This configuration and methodology are provided completely free of charge and open-source. May it serve as a *Sadaqah Jariyah* (continuous charity) for the community.
