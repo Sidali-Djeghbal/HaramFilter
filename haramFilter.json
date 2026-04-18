@@ -1,0 +1,19 @@
+{
+    "output": {
+        "blocklist": [],
+        "deepfilternet#0": {
+            "attenuation-limit": 40.0,
+            "bypass": false,
+            "input-gain": 0.0,
+            "max-df-processing-threshold": 10.0,
+            "max-erb-processing-threshold": 30.0,
+            "min-processing-buffer": 0,
+            "min-processing-threshold": -15.0,
+            "output-gain": 0.2,
+            "post-filter-beta": 0.05
+        },
+        "plugins_order": [
+            "deepfilternet#0"
+        ]
+    }
+}
